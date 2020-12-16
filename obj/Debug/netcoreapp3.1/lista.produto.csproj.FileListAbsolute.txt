@@ -1,0 +1,13 @@
+C:\Users\Taila\Desktop\Dev\lista.produto\bin\Debug\netcoreapp3.1\lista.produto.exe
+C:\Users\Taila\Desktop\Dev\lista.produto\bin\Debug\netcoreapp3.1\lista.produto.deps.json
+C:\Users\Taila\Desktop\Dev\lista.produto\bin\Debug\netcoreapp3.1\lista.produto.runtimeconfig.json
+C:\Users\Taila\Desktop\Dev\lista.produto\bin\Debug\netcoreapp3.1\lista.produto.runtimeconfig.dev.json
+C:\Users\Taila\Desktop\Dev\lista.produto\bin\Debug\netcoreapp3.1\lista.produto.dll
+C:\Users\Taila\Desktop\Dev\lista.produto\bin\Debug\netcoreapp3.1\lista.produto.pdb
+C:\Users\Taila\Desktop\Dev\lista.produto\obj\Debug\netcoreapp3.1\lista.produto.csprojAssemblyReference.cache
+C:\Users\Taila\Desktop\Dev\lista.produto\obj\Debug\netcoreapp3.1\lista.produto.AssemblyInfoInputs.cache
+C:\Users\Taila\Desktop\Dev\lista.produto\obj\Debug\netcoreapp3.1\lista.produto.AssemblyInfo.cs
+C:\Users\Taila\Desktop\Dev\lista.produto\obj\Debug\netcoreapp3.1\lista.produto.csproj.CoreCompileInputs.cache
+C:\Users\Taila\Desktop\Dev\lista.produto\obj\Debug\netcoreapp3.1\lista.produto.dll
+C:\Users\Taila\Desktop\Dev\lista.produto\obj\Debug\netcoreapp3.1\lista.produto.pdb
+C:\Users\Taila\Desktop\Dev\lista.produto\obj\Debug\netcoreapp3.1\lista.produto.genruntimeconfig.cache
